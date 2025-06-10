@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Book",
+        "gif": "Agile/gifs/General/本-order.gif",
+        "read": "ほん | Hon",
+        "img": "Agile/imgs/General/本-bw.png"
+    },
+    {
+        "name": "Mouth",
+        "gif": "Agile/gifs/General/口-order.gif",
+        "read": "くち | Kuchi",
+        "img": "Agile/imgs/General/口-bw.png"
+    },
+    {
+        "name": "Child",
+        "gif": "Agile/gifs/General/子-order.gif",
+        "read": "こ | Ko",
+        "img": "Agile/imgs/General/子-bw.png"
+    },
+    {
+        "name": "Tree",
+        "gif": "Agile/gifs/General/木-order.gif",
+        "read": "もく | Moku",
+        "img": "Agile/imgs/General/木-bw.png"
+    },
+    {
+        "name": "Mother",
+        "gif": "Agile/gifs/General/母-order.gif",
+        "read": "はは | Haha",
+        "img": "Agile/imgs/General/母-bw.png"
+    },
+    {
+        "name": "Water",
+        "gif": "Agile/gifs/General/水-order.gif",
+        "read": "みず | Mizu",
+        "img": "Agile/imgs/General/水-bw.png"
+    },
+    {
+        "name": "Father",
+        "gif": "Agile/gifs/General/父-order.gif",
+        "read": "ちち | Chichi",
+        "img": "Agile/imgs/General/父-bw.png"
+    },
+    {
+        "name": "Dog",
+        "gif": "Agile/gifs/General/犬-order.gif",
+        "read": "いぬ | Inu",
+        "img": "Agile/imgs/General/犬-bw.png"
+    },
+    {
+        "name": "Cat",
+        "gif": "Agile/gifs/General/猫-order.gif",
+        "read": "ねこ | Neko",
+        "img": "Agile/imgs/General/猫-bw.png"
+    },
+    {
+        "name": "Eye",
+        "gif": "Agile/gifs/General/目-order.gif",
+        "read": "め | Me",
+        "img": "Agile/imgs/General/目-bw.png"
+    }
+]   

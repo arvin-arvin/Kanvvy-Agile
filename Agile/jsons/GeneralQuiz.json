@@ -1,0 +1,82 @@
+[
+    {
+        "name": "How many strokes is 本?",
+        "q1": "5",
+        "q2": "6",
+        "q3": "7",
+        "q4": "8",
+        "answer": "8"
+    },
+    {
+        "name": "How can you read 口?",
+        "q1": "くち | Kuchi",
+        "q2": "いち | Ichi",
+        "q3": "に | Ni",
+        "q4": "さん | San",
+        "answer": "くち | Kuchi"
+    },
+    {
+        "name": "How many strokes is 子?",
+        "q1": "2",
+        "q2": "3",
+        "q3": "4",
+        "q4": "5",
+        "answer": "3"
+    },
+    {
+        "name": "How can you read 木?",
+        "q1": "き | Ki",
+        "q2": "みず | Mizu",
+        "q3": "いぬ | Inu",
+        "q4": "ねこ | Neko",
+        "answer": "き | Ki"
+    },
+    {
+        "name": "How can you read 母?",
+        "q1": "はは | Haha",
+        "q2": "ちち | Chichi",
+        "q3": "みず | Mizu",
+        "q4": "いぬ | Inu",
+        "answer": "はは | Haha"
+    },
+    {
+        "name": "How many strokes is 水?",
+        "q1": "3",
+        "q2": "4",
+        "q3": "5",
+        "q4": "6",
+        "answer": "4"
+    },
+    {
+        "name": "How can you read 父?",
+        "q1": "ちち | Chichi",
+        "q2": "はは | Haha",
+        "q3": "ねこ | Neko",
+        "q4": "いぬ | Inu",
+        "answer": "ちち | Chichi"
+    },
+    {
+        "name": "How can you read 犬?",
+        "q1": "いぬ | Inu",
+        "q2": "ねこ | Neko",
+        "q3": "き | Ki",
+        "q4": "みず | Mizu",
+        "answer": "いぬ | Inu"
+    },
+    {
+        "name": "How can you read 猫?",
+        "q1": "ねこ | Neko",
+        "q2": "いぬ | Inu",
+        "q3": "はは | Haha",
+        "q4": "ちち | Chichi",
+        "answer": "ねこ | Neko"
+    },
+    {
+        "name": "How many strokes is 目?",
+        "q1": "3",
+        "q2": "4",
+        "q3": "5",
+        "q4": "6",
+        "answer": "5"
+    }
+]
